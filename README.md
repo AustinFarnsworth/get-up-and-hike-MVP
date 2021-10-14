@@ -1,7 +1,5 @@
 # Get Up and Hike
 
----
-
 ## Summary
 
 
