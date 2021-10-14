@@ -1,5 +1,3 @@
-# get-up-and-hike-MVP
-
 # Get Up and Hike
 
 ---
