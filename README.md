@@ -4,13 +4,11 @@
 
 ## Summary
 
----
 
 This app is a hiking blog that will allow users to post about hiking adventrues. It will also be a place to share tips and tricks to make your overall hiking experience better.
 
 ## Main Features
 
----
 
 ## Pages
 
